@@ -1,0 +1,3 @@
+java -Xmx1800M -jar spigot.jar -o false
+
+PAUSE
